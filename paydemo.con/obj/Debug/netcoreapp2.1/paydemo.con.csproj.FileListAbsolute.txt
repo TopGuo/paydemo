@@ -1,0 +1,11 @@
+F:\Fonor\paydemo\paydemo.con\bin\Debug\netcoreapp2.1\paydemo.con.deps.json
+F:\Fonor\paydemo\paydemo.con\bin\Debug\netcoreapp2.1\paydemo.con.runtimeconfig.json
+F:\Fonor\paydemo\paydemo.con\bin\Debug\netcoreapp2.1\paydemo.con.runtimeconfig.dev.json
+F:\Fonor\paydemo\paydemo.con\bin\Debug\netcoreapp2.1\paydemo.con.dll
+F:\Fonor\paydemo\paydemo.con\bin\Debug\netcoreapp2.1\paydemo.con.pdb
+F:\Fonor\paydemo\paydemo.con\obj\Debug\netcoreapp2.1\paydemo.con.csproj.CoreCompileInputs.cache
+F:\Fonor\paydemo\paydemo.con\obj\Debug\netcoreapp2.1\paydemo.con.AssemblyInfoInputs.cache
+F:\Fonor\paydemo\paydemo.con\obj\Debug\netcoreapp2.1\paydemo.con.AssemblyInfo.cs
+F:\Fonor\paydemo\paydemo.con\obj\Debug\netcoreapp2.1\paydemo.con.dll
+F:\Fonor\paydemo\paydemo.con\obj\Debug\netcoreapp2.1\paydemo.con.pdb
+F:\Fonor\paydemo\paydemo.con\obj\Debug\netcoreapp2.1\paydemo.con.csprojResolveAssemblyReference.cache
